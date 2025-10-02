@@ -23,16 +23,3 @@ Built on the Mediolano Protocol, MediaLane is empowering a new era of content cr
 
 Discover Mediolano:
 https://mediolano.xyz
-
-
-
-
-## Contributing
-
-Ccontributions are **greatly appreciated**. If you have a feature or suggestion that would our plattform better, please fork the repo and create a pull request with the tag "enhancement".
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/Feature`)
-3. Commit your Changes (`git commit -m 'Add some Feature'`)
-4. Push to the Branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
